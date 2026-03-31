@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+    modId="villagerneedit"
+    version="1.0"
+    displayName="Villager Need It"
+    description="Villagers need food to restock"
+    authors="Your Name"
+    [[dependencies.villagerneedit]]
+        modId="forge"
+        mandatory=true
+        versionRange="[47.4.10,)"
+        ordering="NONE"
+        side="BOTH"
